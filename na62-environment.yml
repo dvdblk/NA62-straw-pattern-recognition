@@ -1,0 +1,13 @@
+name: na62
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.9
+  - numpy
+  - matplotlib
+  - notebook
+  - scikit-learn
+  - pytorch
+  - cudatoolkit=11.1
+  - pandas
